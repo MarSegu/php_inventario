@@ -1,10 +1,10 @@
 <?php
 
     // Declaramos las variables de conexión
-    $ServerName = "mysql5045.site4now.net";
-    $Username = "ingmarseg";
-    $Password = "Electronica1234";
-    $NameBD = "db_a7728d_invento";
+    $ServerName = "files.000webhost.com";
+    $Username = "inventario123php";
+    $Password = "Electronica*3";
+    $NameBD = "id17212096_php_inventario";
 
     // Creamos la conexión con MySQL
     $conexion = new mysqli($ServerName, $Username, $Password, $NameBD);
