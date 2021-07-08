@@ -1,0 +1,50 @@
+.foto1 { 
+    padding: 5px; 
+    margin-top: 20px; 
+    margin-left:150px;
+    border: 2px solid black; 
+    float: left; 
+    width: 280px;
+    height: 195px;
+    font-weight: 100;
+}
+
+.boton1{
+
+    margin-top: 30px; 
+    margin-left: 265px;
+}
+
+.foto2 { 
+    padding: 5px; 
+    margin-top: -195px; 
+    margin-left:600px;
+    border: 2px solid black; 
+    float: left; 
+    width: 320px;
+    height: 198px;
+    font-weight: 150;
+}
+
+.boton2{
+
+    margin-top: -20px; 
+    margin-left: 750px;
+}
+
+.foto3 { 
+    padding: 5px; 
+    margin-top: 20px; 
+    margin-left:425px;
+    border: 2px solid black; 
+    float: left; 
+    width: 180px;
+    height: 230px;
+    font-weight: 100;
+}
+
+.boton3{
+
+    margin-top: 30px; 
+    margin-left: 495px;
+}
